@@ -1,3 +1,4 @@
 # TinyML #
 [tensorflow 1](https://www.tensorflow.org/tutorials)
-[tensor flo 2](https://www.tensorflow.org/tutorials/quickstart/beginner)
+[tensorflow2](https://www.tensorflow.org/tutorials/quickstart/beginner)
+[tensorflow3](https://colab.research.google.com/github/tensorflow/tensorboard/blob/master/docs/get_started.ipynb)
